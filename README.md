@@ -52,3 +52,16 @@ This project consists of two main components:
 - Subgroup Heterogeneity Analysis
 - Dominance Filtering & Trade-off Design
 
+## 📌 Survey Instrument
+
+The original survey instrument used in this study was developed in Chinese and administered to respondents using a Qualtrics-based stated choice experiment platform.
+
+The original Chinese questionnaire can be accessed via the following link:
+https://erasmusuniversity.eu.qualtrics.com/jfe/form/SV_0oW71teOfAU5q2q
+
+English-translated version of the full questionnaire is provided in the repository:
+
+- File name: `Questionnaire_Translate.pdf`
+
+This translated version includes all screening questions, attribute descriptions, choice tasks, and demographic questions used in the experiment.
+
