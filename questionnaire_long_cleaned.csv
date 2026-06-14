@@ -1,0 +1,107 @@
+Finished,Q1,TA1,TA2,TA3,TA4,TA5,TA6,TA7,TA8,TA9,TA10,TB1,TB2,TB3,TB4,TB5,TB6,TB7,TB8,TB9,TB10,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Task_block,RespondentID
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,B,A,B,A,A,A,B,A,A,25-29 years,Female,Master or above,"8,001-15,000 RMB",Tier1/NewTier1 city,Yes,Yes,11-30 km,Yes,B,1
+True,Yes,B,B,A,A,A,A,A,A,A,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25-29 years,Female,Master or above,"8,001-15,000 RMB",Tier1/NewTier1 city,Yes,No,<=10 km,No,A,2
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,A,B,A,A,A,B,B,B,B,25-29 years,Female,Master or above,"15,001–25,000元",Tier1/NewTier1 city,Yes,No,11-30 km,No,B,3
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,A,A,A,A,A,A,A,A,A,35-39 years,Female,Bachelor,"8,000元以下",Tier3 or lower city,Yes,No,<=10 km,Yes,B,4
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40+ years,Female,Bachelor,"8,001-15,000 RMB",Villages,Yes,No,<=10 km,No,A,5
+True,Yes,B,B,A,A,A,A,A,A,A,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25-29 years,Male,Bachelor,"8,000元以下",Tier3 or lower city,Yes,Yes,11-30 km,No,A,6
+True,Yes,A,A,A,A,A,A,A,A,A,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25-29 years,Female,Bachelor,"8,000元以下",Tier1/NewTier1 city,Yes,Yes,<=10 km,No,A,8
+True,Yes,B,B,B,B,B,B,B,B,B,B,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35-39 years,Female,Master or above,"8,001-15,000 RMB",Tier3 or lower city,Yes,No,<=10 km,No,A,9
+True,Yes,A,A,A,A,A,A,A,A,A,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40+ years,Male,College or below,"8,001-15,000 RMB",Tier3 or lower city,Yes,Yes,<=10 km,No,A,10
+True,是,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,A,A,B,A,A,A,A,B,B,18-24 years,Male,Bachelor,"8,001-15,000 RMB",Tier1/NewTier1 city,No,No,11-30 km,Yes,B,11
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,B,B,B,B,A,B,A,B,B,B,25-29 years,Female,Bachelor,"8,001-15,000 RMB",Tier3 or lower city,Yes,Yes,11-30 km,Yes,B,13
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,B,B,B,B,B,A,B,B,A,A,18-24 years,Female,Bachelor,"8,000元以下",Tier3 or lower city,Yes,Yes,<=10 km,Yes,B,14
+True,Yes,B,B,A,A,B,A,B,B,A,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35-39 years,Female,Master or above,"8,001-15,000 RMB",Tier3 or lower city,Yes,No,<=10 km,Yes,A,15
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,B,B,B,B,A,B,A,B,A,A,25-29 years,Female,Master or above,"8,000元以下",Tier1/NewTier1 city,Yes,No,No commuting,Yes,B,16
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,B,B,B,B,B,B,B,B,B,B,35-39 years,Male,Bachelor,"8,001-15,000 RMB",Tier3 or lower city,Yes,Yes,No commuting,No,B,17
+True,Yes,B,B,B,B,B,B,B,B,B,B,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35-39 years,Female,Master or above,"8,001-15,000 RMB",Tier1/NewTier1 city,Yes,No,<=10 km,No,A,19
+True,是,A,A,A,A,A,A,A,A,A,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25-29 years,不方便透露,Bachelor,"8,000元以下",Tier3 or lower city,No,No,<=10 km,No,A,21
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,B,A,A,B,B,B,B,B,B,B,35-39 years,Female,Bachelor,"8,001-15,000 RMB",Tier3 or lower city,Yes,Yes,<=10 km,No,B,22
+True,Yes,A,A,A,A,A,A,A,A,A,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40+ years,Male,College or below,"8,000元以下",Tier1/NewTier1 city,Yes,No,11-30 km,No,A,23
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,A,A,A,A,A,B,B,A,B,25-29 years,Male,Bachelor,">25,000 RMB",Tier2 city,Yes,Yes,<=10 km,Yes,B,24
+True,Yes,A,A,A,A,A,A,A,A,A,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35-39 years,Male,Bachelor,"8,001-15,000 RMB",Tier2 city,Yes,Yes,No commuting,Yes,A,25
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,B,A,B,A,A,B,B,A,A,25-29 years,Female,Master or above,"8,000元以下",Tier2 city,Yes,No,<=10 km,No,B,26
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,A,A,A,A,A,A,A,A,A,40+ years,Male,College or below,"8,000元以下",Tier1/NewTier1 city,Yes,No,11-30 km,No,B,27
+True,Yes,B,B,B,B,B,B,B,B,B,B,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35-39 years,Male,College or below,"8,000元以下",Tier1/NewTier1 city,Yes,No,11-30 km,Yes,A,28
+True,Yes,B,B,B,B,B,B,B,B,B,B,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40+ years,Male,Bachelor,"8,000元以下",Tier1/NewTier1 city,Yes,No,11-30 km,No,A,29
+True,Yes,B,B,B,B,B,B,B,B,B,B,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40+ years,Male,Bachelor,"15,001–25,000元",Tier1/NewTier1 city,Yes,Yes,11-30 km,Yes,A,30
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,B,B,B,B,A,B,B,B,A,A,40+ years,Female,Bachelor,"8,001-15,000 RMB",Tier1/NewTier1 city,Yes,Yes,>30 km,No,B,31
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,A,A,A,A,A,A,NA,A,A,35-39 years,Female,Bachelor,"15,001–25,000元",Tier1/NewTier1 city,Yes,Yes,>30 km,Yes,B,32
+True,Yes,B,B,B,B,B,B,B,B,B,B,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40+ years,Female,College or below,"8,000元以下",Tier1/NewTier1 city,Yes,Yes,11-30 km,Yes,A,33
+True,是,A,A,A,A,A,A,A,B,B,B,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25-29 years,Female,Master or above,"8,001-15,000 RMB",Tier1/NewTier1 city,No,No,>30 km,Yes,A,34
+True,是,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,A,B,A,B,A,B,A,A,B,35-39 years,Male,College or below,"8,000元以下",Tier1/NewTier1 city,No,Yes,>30 km,Yes,B,35
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,A,A,A,A,A,A,A,A,A,40+ years,Female,Bachelor,">25,000 RMB",Tier1/NewTier1 city,Yes,Yes,>30 km,Yes,B,36
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,B,B,A,B,B,B,A,A,B,A,25-29 years,Female,Master or above,"8,001-15,000 RMB",Tier1/NewTier1 city,Yes,No,>30 km,Yes,B,37
+True,Yes,A,A,A,B,B,A,B,B,B,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40+ years,Female,Bachelor,"8,000元以下",Tier1/NewTier1 city,Yes,Yes,11-30 km,Yes,A,38
+True,Yes,B,A,B,B,B,A,B,B,A,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40+ years,Female,Bachelor,"8,001-15,000 RMB",Tier1/NewTier1 city,Yes,Yes,11-30 km,No,A,39
+True,是,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,B,B,B,B,B,B,B,B,B,B,40+ years,Female,College or below,"8,001-15,000 RMB",Tier1/NewTier1 city,No,No,>30 km,No,B,40
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,B,B,B,B,B,B,B,B,B,B,40+ years,Female,College or below,"8,000元以下",Tier1/NewTier1 city,Yes,Yes,11-30 km,No,B,41
+True,Yes,B,B,B,A,B,A,A,B,A,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40+ years,Female,College or below,"8,000元以下",Tier1/NewTier1 city,Yes,Yes,11-30 km,No,A,42
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,B,A,A,A,A,B,A,A,A,A,40+ years,Female,Bachelor,"15,001–25,000元",Tier1/NewTier1 city,Yes,Yes,>30 km,No,B,43
+True,是,B,B,B,B,B,B,B,B,B,B,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40+ years,Male,Bachelor,"15,001–25,000元",Tier1/NewTier1 city,No,No,>30 km,No,A,44
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,B,B,B,B,B,B,B,B,B,B,40+ years,Male,Bachelor,"8,001-15,000 RMB",Tier1/NewTier1 city,Yes,Yes,11-30 km,No,B,45
+True,Yes,B,B,B,A,A,A,B,A,A,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40+ years,Female,College or below,"8,000元以下",Tier1/NewTier1 city,Yes,Yes,>30 km,No,A,46
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,A,A,A,A,A,B,B,A,A,40+ years,Male,College or below,"8,001-15,000 RMB",Tier1/NewTier1 city,Yes,No,11-30 km,No,B,47
+True,Yes,NA,A,A,A,A,A,A,A,A,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25-29 years,Male,College or below,"8,000元以下",Tier1/NewTier1 city,Yes,Yes,No commuting,Yes,A,48
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,B,B,A,A,A,B,B,A,A,40+ years,Female,Bachelor,"8,001-15,000 RMB",Tier1/NewTier1 city,Yes,Yes,>30 km,Yes,B,49
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,B,B,B,B,A,B,B,B,B,B,40+ years,Female,Bachelor,"8,001-15,000 RMB",Tier1/NewTier1 city,Yes,No,11-30 km,No,B,50
+True,Yes,B,B,B,B,B,B,B,B,B,B,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40+ years,Female,Bachelor,"8,001-15,000 RMB",Tier1/NewTier1 city,Yes,No,<=10 km,No,A,51
+True,Yes,B,B,B,B,B,NA,B,B,B,B,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40+ years,Female,Bachelor,"8,000元以下",Tier1/NewTier1 city,Yes,No,<=10 km,No,A,52
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,A,A,A,A,A,A,A,A,A,35-39 years,Male,College or below,"8,000元以下",Tier1/NewTier1 city,Yes,Yes,<=10 km,Yes,B,53
+True,Yes,B,B,A,A,B,B,B,A,A,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25-29 years,Female,Master or above,">25,000 RMB",Tier1/NewTier1 city,Yes,No,<=10 km,No,A,54
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,B,B,A,B,A,A,B,B,B,B,25-29 years,Female,Bachelor,"8,000元以下",Villages,Yes,No,11-30 km,No,B,55
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,B,A,B,B,B,B,B,B,B,B,40+ years,Male,College or below,"8,000元以下",Tier1/NewTier1 city,Yes,Yes,No commuting,Yes,B,56
+True,是,B,B,B,B,B,B,A,A,A,B,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35-39 years,Male,College or below,"8,001-15,000 RMB",Tier3 or lower city,No,Yes,<=10 km,Yes,A,57
+True,Yes,B,B,B,B,B,B,B,B,A,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25-29 years,Female,Bachelor,">25,000 RMB",Tier1/NewTier1 city,Yes,No,<=10 km,No,A,58
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,A,B,A,A,A,A,B,A,A,25-29 years,Female,Master or above,"8,001-15,000 RMB",Tier2 city,Yes,No,No commuting,Yes,B,59
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,B,B,A,A,A,B,A,A,B,B,25-29 years,Male,Master or above,"8,001-15,000 RMB",Tier1/NewTier1 city,Yes,Yes,<=10 km,Yes,B,61
+True,Yes,A,A,B,A,B,A,A,B,A,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25-29 years,Male,Bachelor,"15,001–25,000元",Tier2 city,Yes,No,<=10 km,No,A,62
+True,是,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,B,B,B,B,B,B,B,B,B,B,25-29 years,Male,Master or above,"8,001-15,000 RMB",Tier1/NewTier1 city,No,No,>30 km,Yes,B,63
+True,Yes,B,B,B,A,A,A,A,B,A,B,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25-29 years,Female,Master or above,"8,001-15,000 RMB",Tier1/NewTier1 city,Yes,No,>30 km,Yes,A,64
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,B,B,A,A,A,B,A,A,A,B,25-29 years,Female,Bachelor,"15,001–25,000元",Tier1/NewTier1 city,Yes,No,11-30 km,No,B,65
+True,Yes,B,B,B,A,A,A,A,B,A,B,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,18-24 years,Female,Master or above,"8,001-15,000 RMB",Tier1/NewTier1 city,Yes,Yes,11-30 km,Yes,A,66
+True,Yes,B,B,A,A,B,A,A,B,A,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35-39 years,Female,Master or above,">25,000 RMB",Tier2 city,Yes,No,>30 km,Yes,A,67
+True,Yes,A,A,A,A,A,A,A,B,A,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25-29 years,Male,Master or above,"8,001-15,000 RMB",Tier1/NewTier1 city,Yes,Yes,<=10 km,No,A,68
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,A,B,A,A,A,A,A,A,A,25-29 years,Male,Bachelor,"15,001–25,000元",Tier1/NewTier1 city,Yes,Yes,11-30 km,Yes,B,69
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,B,B,B,B,B,B,B,B,A,A,25-29 years,Female,Bachelor,">25,000 RMB",Tier1/NewTier1 city,Yes,No,No commuting,No,B,71
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,B,B,A,B,A,A,A,B,A,B,25-29 years,Female,Master or above,"15,001–25,000元",Tier2 city,Yes,Yes,11-30 km,No,B,72
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,B,B,A,B,A,B,B,B,B,B,18-24 years,Female,Bachelor,"8,000元以下",Tier1/NewTier1 city,Yes,No,No commuting,No,B,73
+True,是,B,B,A,A,B,A,B,A,A,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25-29 years,Male,Master or above,"15,001–25,000元",Tier2 city,No,No,11-30 km,Yes,A,74
+True,Yes,B,B,B,B,A,A,B,B,A,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25-29 years,Female,Master or above,"8,001-15,000 RMB",Tier2 city,Yes,Yes,<=10 km,No,A,75
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,B,B,B,B,A,B,B,B,B,B,35-39 years,Female,Master or above,"8,001-15,000 RMB",Tier1/NewTier1 city,Yes,Yes,11-30 km,Yes,B,76
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,A,A,B,A,NA,A,B,B,A,35-39 years,Female,Master or above,"8,001-15,000 RMB",Tier2 city,Yes,Yes,11-30 km,Yes,B,77
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,A,A,A,A,B,A,A,B,B,25-29 years,Female,Master or above,"8,001-15,000 RMB",Tier1/NewTier1 city,Yes,No,<=10 km,Yes,B,78
+True,Yes,A,A,A,A,A,A,A,B,A,B,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35-39 years,Male,Bachelor,">25,000 RMB",Tier1/NewTier1 city,Yes,No,<=10 km,Yes,A,79
+True,是,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,B,A,B,A,B,B,B,A,B,25-29 years,Female,Master or above,">25,000 RMB",Tier1/NewTier1 city,No,No,<=10 km,No,B,80
+True,Yes,B,B,B,A,A,A,A,B,A,B,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25-29 years,Female,Bachelor,"8,001-15,000 RMB",Tier1/NewTier1 city,Yes,No,<=10 km,Yes,A,81
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,B,A,B,A,B,A,A,B,A,25-29 years,Male,Master or above,"8,001-15,000 RMB",Tier1/NewTier1 city,Yes,Yes,<=10 km,No,B,82
+True,Yes,B,B,B,A,B,A,A,B,A,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35-39 years,Male,Master or above,"15,001–25,000元",Tier1/NewTier1 city,Yes,Yes,11-30 km,Yes,A,83
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,B,B,A,A,A,B,A,A,A,A,35-39 years,Female,Master or above,"15,001–25,000元",Tier1/NewTier1 city,Yes,No,No commuting,No,B,84
+True,No Sure,B,B,A,A,B,A,A,A,A,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25-29 years,Male,Bachelor,"15,001–25,000元",Tier1/NewTier1 city,No,No,<=10 km,No,A,85
+True,Yes,B,B,B,A,B,A,A,B,A,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35-39 years,Female,Master or above,">25,000 RMB",Tier1/NewTier1 city,Yes,Yes,<=10 km,Yes,A,86
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,A,A,A,A,B,A,A,A,B,25-29 years,Male,Master or above,"15,001–25,000元",Tier1/NewTier1 city,Yes,No,<=10 km,Yes,B,87
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,B,B,B,B,A,B,A,B,A,B,25-29 years,Female,Master or above,"8,001-15,000 RMB",Villages,Yes,No,No commuting,No,B,89
+True,Yes,B,A,B,A,B,A,A,B,A,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25-29 years,Female,Master or above,"8,001-15,000 RMB",Tier2 city,Yes,No,No commuting,No,A,90
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,B,B,A,B,A,B,B,B,B,B,25-29 years,Male,Bachelor,"8,001-15,000 RMB",Tier1/NewTier1 city,Yes,No,<=10 km,Yes,B,91
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35-39 years,Male,Master or above,">25,000 RMB",Tier3 or lower city,Yes,Yes,<=10 km,Yes,A,92
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,B,A,A,A,B,A,B,B,B,25-29 years,Female,Master or above,"15,001–25,000元",Tier1/NewTier1 city,Yes,Yes,11-30 km,Yes,B,93
+True,Yes,B,B,B,B,B,B,B,B,B,B,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35-39 years,不方便透露,Bachelor,"15,001–25,000元",Tier1/NewTier1 city,Yes,No,11-30 km,No,A,94
+True,Yes,A,B,B,B,B,B,B,B,B,B,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25-29 years,Female,Master or above,"15,001–25,000元",Tier1/NewTier1 city,Yes,No,11-30 km,Yes,A,95
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,B,B,B,B,B,B,B,B,B,B,25-29 years,Male,Master or above,">25,000 RMB",Tier1/NewTier1 city,Yes,No,<=10 km,No,B,96
+True,Yes,B,B,A,B,A,B,A,B,B,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35-39 years,Female,Bachelor,"15,001–25,000元",Tier2 city,Yes,No,No commuting,No,A,97
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,B,A,B,A,B,A,A,B,B,25-29 years,Male,Bachelor,">25,000 RMB",Tier3 or lower city,Yes,Yes,<=10 km,Yes,B,98
+True,Yes,A,A,A,A,A,A,A,A,A,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40+ years,Male,Bachelor,"8,001-15,000 RMB",Tier1/NewTier1 city,Yes,Yes,11-30 km,Yes,A,99
+True,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,B,B,A,A,A,B,A,B,A,B,25-29 years,Female,College or below,"8,000元以下",Tier2 city,No,No,No commuting,No,B,100
+True,是,B,B,B,A,B,A,A,B,A,B,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25-29 years,Female,College or below,"8,000元以下",Villages,No,No,<=10 km,No,A,102
+True,是,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,B,B,A,A,A,B,A,B,A,B,35-39 years,Female,Bachelor,"8,001-15,000 RMB",Tier2 city,No,Yes,<=10 km,Yes,B,103
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,A,A,A,A,A,A,A,A,A,18-24 years,Male,Bachelor,"8,000元以下",Tier2 city,Yes,No,<=10 km,No,B,104
+True,Yes,B,B,B,B,B,B,B,B,B,B,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40+ years,Female,Bachelor,"8,000元以下",Tier1/NewTier1 city,Yes,Yes,11-30 km,No,A,105
+True,Yes,B,A,B,B,A,A,A,A,A,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35-39 years,Female,College or below,"8,000元以下",Tier2 city,Yes,Yes,<=10 km,Yes,A,106
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,A,A,B,B,A,A,B,B,A,40+ years,Female,College or below,"8,000元以下",Tier1/NewTier1 city,Yes,Yes,>30 km,No,B,107
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,A,A,A,A,A,A,A,A,A,40+ years,Female,College or below,"8,000元以下",Tier1/NewTier1 city,Yes,No,No commuting,Yes,B,108
+True,是,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,B,A,B,A,A,NA,B,B,A,25-29 years,Female,Master or above,"15,001–25,000元",Tier2 city,No,Yes,>30 km,No,B,109
+True,Yes,A,B,A,B,A,B,B,B,B,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35-39 years,Female,Bachelor,"15,001–25,000元",Tier2 city,Yes,Yes,11-30 km,Yes,A,110
+True,是,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,A,A,B,A,A,A,B,B,A,35-39 years,Male,Bachelor,"15,001–25,000元",Tier2 city,No,Yes,11-30 km,Yes,B,111
+True,Yes,B,B,A,B,B,B,B,A,B,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35-39 years,Male,Bachelor,">25,000 RMB",Tier2 city,Yes,Yes,<=10 km,No,A,112
+True,是,A,B,A,A,A,B,B,A,B,B,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25-29 years,Female,Bachelor,"15,001–25,000元",Tier1/NewTier1 city,No,Yes,11-30 km,Yes,A,113
+True,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,B,A,A,A,A,B,A,A,B,B,25-29 years,Female,Bachelor,"15,001–25,000元",Tier3 or lower city,Yes,Yes,11-30 km,Yes,B,114

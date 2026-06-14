@@ -1,0 +1,29 @@
+Variable,Category,N,Percent
+Age,18-24 years,5,4.7
+Age,25-29 years,46,43.4
+Age,35-39 years,27,25.5
+Age,40+ years,28,26.4
+Gender,Female,66,62.3
+Gender,Male,38,35.8
+Gender,Prefer not to say,2,1.9
+Education,College or below,20,18.9
+Education,Bachelor,49,46.2
+Education,Master or above,37,34.9
+Monthly income,"8,000元以下",30,28.3
+Monthly income,"8,001-15,000 RMB",40,37.7
+Monthly income,"15,001–25,000元",23,21.7
+Monthly income,">25,000 RMB",13,12.3
+City tier,Tier1/NewTier1 city,68,64.2
+City tier,Tier2 city,20,18.9
+City tier,Tier3 or lower city,14,13.2
+City tier,Villages,4,3.8
+Car ownership,Car ownership,89,84
+Car ownership,No car ownership,17,16
+Prior EV experience,EV experience,52,49.1
+Prior EV experience,No EV experience,54,50.9
+Home charging access,Home charging access,53,50
+Home charging access,No/uncertain charging access,53,50
+Commute distance,No commuting,14,13.2
+Commute distance,<=10 km,40,37.7
+Commute distance,11-30 km,36,34
+Commute distance,>30 km,16,15.1
