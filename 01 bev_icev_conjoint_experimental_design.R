@@ -127,7 +127,6 @@ write.csv(realistic_pool_export, "realistic_candidate_pool_revised.csv", row.nam
 
 
 
-
 ## reduce model with D-optimal
 
 library(AlgDesign)
@@ -211,8 +210,6 @@ write.csv(
 
 
 
-
-# 分block和配对方案
 
 library(dplyr)
 
@@ -1235,8 +1232,6 @@ cat("Block_B tasks:", length(block_b_qids), "\n")
 
 
 
-
-# 对调题目 更平均
 library(dplyr)
 library(tidyr)
 
